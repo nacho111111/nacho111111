@@ -43,7 +43,8 @@ Actualmente sigo aprendiendo y construyendo proyectos que me permitan combinar d
 |Taaa|x|
 |:-:|:-:|
  -->
-<img src="https://media.tenor.com/hf_R_l24--sAAAAi/cat-meme-laptop.gif" width = 100/><img src="https://media.tenor.com/ShXqrVOXsM0AAAAj/scuba-scuba-dance.gif" width = 100/><img src="https://media.tenor.com/tXPyA29d1SwAAAAi/cat-raaa.gif" width = 100/><img src="https://media.tenor.com/5EYt5mnIMvwAAAAi/silly-cat-dance.gif" width = 100/>
+
+<img  width=100 src="https://media.tenor.com/hf_R_l24--sAAAAi/cat-meme-laptop.gif"/><img width=100 src="https://media.tenor.com/GQAsycjoZG8AAAAi/scuba-scuba-cat.gif" /><img width=100 src="https://media.tenor.com/tXPyA29d1SwAAAAi/cat-raaa.gif" /><img width=100 src="https://media.tenor.com/5EYt5mnIMvwAAAAi/silly-cat-dance.gif"/>
 
 
 
