@@ -1,6 +1,6 @@
-<h1> Hola, bienvenido a mi git </h1>
+<h1> Hola, bienvenido </h1>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Holaaa;.+.+.+.;cosas)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Holaaa;.+.+.+.;Cosas+.+.+.;Tiene+que+trabaja;print(Hola+Mundo))](https://git.io/typing-svg)
 
 
 👋 ¡Hola! Soy Ignacio, Ingeniero en Informática y desarrollador apasionado por la creación de software que resuelva problemas reales.
@@ -8,12 +8,12 @@
 Me gusta construir software, aprender tecnologías nuevas y entender cómo funcionan los sistemas por dentro. Durante los últimos años he trabajado con tecnologías como C#, JavaScript, Python, SQL, React, Node.js y PostgreSQL, desarrollando proyectos que van desde sistemas de reservas y automatización mediante APIs hasta simulaciones multiagente utilizando Reinforcement Learning en Unity.
 
 Actualmente sigo aprendiendo y construyendo proyectos que me permitan combinar desarrollo de software, inteligencia artificial o modelado de sistemas complejos.
-## Sobre mi:
+## Sobre mi
 
 - 🏢 Actualmente soy desarrollador independiente
-- 🎓 Egresado en **Ingenieria informatica y Telecomunicaciones** en la [Universidad Finis Terrae](https://www.ilabs.lk/)
-- 🏡 vivo en **Santiago de chile**
-## Intereses:
+- 🎓 Egresado en **Ingenieria informatica y Telecomunicaciones** en la [Universidad Finis Terrae](https://finis.cl)
+- 🏡 Soy de **Santiago de chile**
+## Intereses
 - 🌐 Desarrollo Full Stack (React, Node.js, PostgreSQL).
 - 🤖 Inteligencia Artificial y Reinforcement Learning.
 - 🎮 Simulación y desarrollo con Unity.
@@ -32,16 +32,20 @@ Actualmente sigo aprendiendo y construyendo proyectos que me permitan combinar d
   <img src="https://skillicons.dev/icons?i=py,unity&perline=3" />
 </a>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Contactame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ignaciohenriquezb)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:ihenriqueza@uft.edu)
 
-<br>
+<h2> Gatos <img src = "https://media.tenor.com/tXPyA29d1SwAAAAi/cat-raaa.gif" width = 32px> </h2>
 
-
-
-
+<!--
+|Taaa|x|
+|:-:|:-:|
+ -->
+ 
+![Un gato](https://media.tenor.com/hf_R_l24--sAAAAi/cat-meme-laptop.gif)![Un gato2](https://media.tenor.com/ShXqrVOXsM0AAAAj/scuba-scuba-dance.gif)
+![Un gato](https://media.tenor.com/tXPyA29d1SwAAAAi/cat-raaa.gif) 
 
 
 
