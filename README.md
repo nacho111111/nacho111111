@@ -11,7 +11,7 @@ Actualmente sigo aprendiendo y construyendo proyectos que me permitan combinar d
 ## Sobre mi
 
 - 🏢 Actualmente soy desarrollador independiente
-- 🎓 Egresado en **Ingenieria informatica y Telecomunicaciones** en la [Universidad Finis Terrae](https://finis.cl)
+- 🎓 Egresado en **Ingenieria informatica y Telecomunicaciones**
 - 🏡 Soy de **Santiago de chile**
 ## Intereses
 - 🌐 Desarrollo Full Stack (React, Node.js, PostgreSQL).
